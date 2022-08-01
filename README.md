@@ -1,3 +1,4 @@
+# Shop Receipt Generation sofware
 # PF-SEM-II-Lab-Project
 Contains the lab project of Programing Fundamentals in C++
 
